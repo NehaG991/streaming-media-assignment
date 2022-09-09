@@ -74,7 +74,6 @@ const loadFile = (request, response, filePath, contentType) => {
 
 module.exports.loadFile = loadFile;
 
-
 // OLD STUFF
 // const getParty = (request, response) => {
 //   const file = path.resolve(__dirname, '../client/party.mp4');
